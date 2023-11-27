@@ -9,3 +9,6 @@
 8. print object-oriented programming with Python
 9. Python script that prints “The Zen of Python”, by TimPeters,
 10. Technical interview preparation:
+100. Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19,o
+101. script that compiles a Python script file.
+102. Python function
