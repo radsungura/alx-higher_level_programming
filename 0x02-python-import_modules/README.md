@@ -4,5 +4,6 @@
 3. Infinite addition
 4. Who are you5?
 5. Everything can be imported
-6. Build my own calculator!
-7. Easy print
+100. Build my own calculator!
+101. Easy print
+102. ByteCode -> Python #3
