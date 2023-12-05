@@ -7,3 +7,4 @@
 100. Build my own calculator!
 101. Easy print
 102. ByteCode -> Python #3
+103. Fast alphabet
