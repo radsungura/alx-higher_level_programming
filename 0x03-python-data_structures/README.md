@@ -9,3 +9,4 @@
 8. returns a tuple with the length of a string
 9. Find the max
 10. Only by 2
+11. Delete at a specific position
