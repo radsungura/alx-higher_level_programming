@@ -8,3 +8,4 @@
 7. Tuples addition
 8. returns a tuple with the length of a string
 9. Find the max
+10. Only by 2
