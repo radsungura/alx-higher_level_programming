@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Define MagicClass that does exactly the same as the following Python bytecode given."""
+"""Define a MagicClass matching exactly a bytecode provided by Holberton."""
 
 import math
 
