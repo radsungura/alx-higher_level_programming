@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
-"""Define Python MagicClass that does exactly the 
-    same as the following Python bytecode given."""
+"""Define MagicClass that does exactly the same as the following Python bytecode given."""
 
 import math
 
