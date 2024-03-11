@@ -17,3 +17,4 @@
 14. Const or not const
 15. Call me Moby
 16. Add me maybe
+17. Increment object
