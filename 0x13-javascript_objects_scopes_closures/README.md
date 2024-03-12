@@ -7,3 +7,5 @@
 4. Rectangle #4
 5. Square #0
 6. Square #1
+7. Occurrences
+
