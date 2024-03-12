@@ -1,7 +1,7 @@
 #!/usr/bin/node
 const dict = require('./101-data').dict;
 
-const originList = Object.entries(dict);
+const originl = Object.entries(dict);
 const val = Object.values(dict);                                            const valObj = [new Set(values)];
 const newDict = {}; 
 for (const i in valObj){
