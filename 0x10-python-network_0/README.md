@@ -5,3 +5,4 @@
 2. cURL Method
 3. cURL only methods
 4. cURL headers
+5. cURL POST parameters
