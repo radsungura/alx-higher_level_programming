@@ -8,3 +8,4 @@
 5. A script that gets the contents of a webpage and stores it in a file
 6. A script that computes the number of tasks completed by user id
 7. A script that prints all characters of a Star Wars movie
+8. A script that prints all characters of a Star Wars movie
