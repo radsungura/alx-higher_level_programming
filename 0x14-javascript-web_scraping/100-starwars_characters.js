@@ -7,8 +7,8 @@ require.get(API + Id, function (error, res, body) {
   if (error) {
     console.log(error);
   }
-  const res = JSON.parse(body);
-  const characters = res.characters;
+  const results = JSON.parse(body);
+  const characters = results.characters;
   for (const i of characters) {
     require.get(i, function (error, res, body1) {
       if (error) {
